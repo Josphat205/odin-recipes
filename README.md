@@ -1,5 +1,5 @@
 # odin-recipes
-About Our Resipes
+About Our Recipes
 
 we have 3 recipes in our Restaurant 
 1. Pilau
